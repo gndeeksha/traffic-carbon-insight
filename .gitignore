@@ -1,0 +1,17 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (for Angular later)
+node_modules/
